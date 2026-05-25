@@ -1,0 +1,9 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,cbd1dd9f5f48228fdfab07b417548e43,0.5,0.5,1,,Observation,"In the picture, a girl was sitting on the stone sit beside the wall. She was wearing a gray hoody and black pants. However, her left leg was broken, and she was taking a crutch on her right side. She was on her phone waiting for the school helper with the golf car to help her. ",,,,,,,,
+2,cbd1dd9f5f48228fdfab07b417548e43,0.5195283454797105,0.27825213041836094,1.857490503323837,,"Interpretation ","Love of community help is shown in a very straightforward way, since her leg was broken, and another student who was driving a golf car helped her to move around.",,,,,,,,
+3,cbd1dd9f5f48228fdfab07b417548e43,0.5481080681973215,0.27649299066017097,2.48832,,Connection,"The article that I used: ""The Secret to Love is Just Kindness"" By Emily Esfahani Smith
+Main concept: The secret to lasting love is not dramatic romance, but everyday kindness, generosity, and the ability to respond to a partner’s emotional needs.
+Connection:  Even they are not partner or even the picture does not show they are friends. However, the picture still shows a strong sense of love by giving kindness to the others. We are all in the big UCSB community, so we can all spread love and kindness around to create a loving community.",,,,,,,,
+4,cbd1dd9f5f48228fdfab07b417548e43,0.5453895661963288,0.24566761534793727,2.9859839999999997,,Hotspots,"Hotspot 1: The girl with broken leg.
+Hotspot 2: The student with golf car. (right after I took the picture, I missed it)",,,,,,,,
